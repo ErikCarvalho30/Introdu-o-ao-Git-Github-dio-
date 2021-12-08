@@ -1,4 +1,0 @@
-	Me sinto grato por aprender essa aula, segue como no inicio do repositório uma postagem bem explicativa sobre o assunto.
-	https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao
-	
-	Tive dificuldade em efetuar o push no meu git, tive problemas com a autenticação, usei esse [link docs.github autentication secure](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) para solucionar o problema com a autenticação da conta github ao lança o git para a nuvem.
